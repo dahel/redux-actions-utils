@@ -1,0 +1,27 @@
+{
+  "name": "redux-actions-utils",
+  "version": "0.0.1",
+  "description": "Utility fo Redux actions\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[r",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dahel/redux-actions-utils.git"
+  },
+  "keywords": [
+    "redux-action",
+    "redux"
+  ],
+  "author": "Sebastian Prymas <prymas.sebastian@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dahel/redux-actions-utils/issues"
+  },
+  "homepage": "https://github.com/dahel/redux-actions-utils#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
