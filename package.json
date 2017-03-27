@@ -4,7 +4,8 @@
   "description": "Utility fo Redux actions\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[r",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter spec",
+    "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,8 @@
   "homepage": "https://github.com/dahel/redux-actions-utils#readme",
   "devDependencies": {
     "chai": "^3.5.0",
+    "coveralls": "^2.12.0",
+    "istanbul": "^0.4.5",
     "mocha": "^3.2.0"
   }
 }
