@@ -1,5 +1,6 @@
 Redux Actions Utils
-=========
+===================
+[![Build Status](https://travis-ci.org/dahel/redux-actions-utils.svg?branch=master)](https://travis-ci.org/dahel/redux-actions-utils) [![Coverage Status](https://coveralls.io/repos/github/dahel/redux-actions-utils/badge.svg?branch=master)](https://coveralls.io/github/dahel/redux-actions-utils?branch=master)
 
 A tiny utility for redux actions
 
